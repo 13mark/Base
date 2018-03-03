@@ -1,0 +1,8 @@
+{
+    "Date" : [],
+    "MeanEncode": [],
+    "Remove": ["name", "desc", "keywords"],
+    "Targets": ["final_status", "backers_count"],
+    "Target": "final_status",
+    "ID": "project_id"
+}
